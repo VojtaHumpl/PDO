@@ -18,16 +18,22 @@ Aplikace je určená pouze pro Windows, takže uživatel bude nejspíše v kance
 ## Struktura
 
 Návod k použití
-  - Použití
+  - K čemu slouží aplikace
   - Základní kroky
     - Import dat
     - Import schématu
     - Přidání zařízení
     - Zobrazení dat
-  - Schéma
-  - Grafy
-  - Diagramy
-  - Data
+  - Rozhraní
+    - Schéma
+    - Grafy
+    - Diagramy
+    - Data
+  - Příklady použití
+    - Graf průměrné spotřeby domu
+    - Diagram chytrých zařízení v hale
+    - Schéma spotřebičů garáže
+  
 
 
 
