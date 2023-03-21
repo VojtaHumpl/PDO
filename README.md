@@ -33,7 +33,8 @@ Návod k použití
     - Graf průměrné spotřeby domu
     - Diagram chytrých zařízení v hale
     - Schéma spotřebičů garáže
-  
+    - Diagram obecných dat
+    - Propojení s databází  
 
 
 
