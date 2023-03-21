@@ -29,6 +29,7 @@ Návod k použití
     - Grafy
     - Diagramy
     - Data
+  - Zpracování výrazů
   - Příklady použití
     - Graf průměrné spotřeby domu
     - Diagram chytrých zařízení v hale
