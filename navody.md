@@ -14,7 +14,15 @@ Spustí se instalace
 
 ## Nový dokument
 
+## Nadpis
 
+## Vložení obrázku
+
+## Vložení odkazu
+
+## Ukládání
+
+## Export do pdf
 
 
 
