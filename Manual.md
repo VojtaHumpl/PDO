@@ -25,7 +25,7 @@ Pro import dat otevřeme menu *File* v levém horním rohu aplikace. Zde otevře
 
 ![image](https://user-images.githubusercontent.com/72192205/231018389-41026b02-de52-49f5-a2a1-dc81a3f73bdd.png)
 
-Pro import ze souboru csv zovlíme *Import Dataset From File*.
+Pro import ze souboru csv zvolíme *Import Dataset From File*.
 
 ![image](https://user-images.githubusercontent.com/72192205/231018573-ec9ec067-e665-444b-a152-ad2e6f011250.png)
 
