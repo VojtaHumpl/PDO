@@ -37,6 +37,10 @@ Potřebná nastavení importu se automaticky vyplní, pokud je soubor csv standa
 na importovaný soubor. Zde si můžeme ověřit, jak se data načtou pomocí námi zadaných nastavení importu. Pkud chceme načít pouze určitý počet řádků souboru,
 můžeme vyplnit pole *Number of lines to load* počtem řádků, které chceme načíst.
 
+* Header Line Number - číslo řádku na kterém je hlavička dat
+* Number of lines to load - počet řádků dat k načtení
+* Delimiter - rozdělovač dat
+
 ## Import schématu
 ## Přidání zařízení
 ## Zobrazení dat
