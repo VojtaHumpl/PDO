@@ -25,21 +25,26 @@ Pro import dat otevřeme menu **File** v levém horním rohu aplikace. Zde otev�
 
 ![image](https://user-images.githubusercontent.com/72192205/231018389-41026b02-de52-49f5-a2a1-dc81a3f73bdd.png)
 
-Pro import ze souboru csv zvolíme **Import Dataset From File**.
+
+### Import dat ze souboru CSV
+
+Pro import ze souboru CSV zvolíme **Import Dataset From File**.
 
 ![image](https://user-images.githubusercontent.com/72192205/231018573-ec9ec067-e665-444b-a152-ad2e6f011250.png)
 
-Otevře se dialogové okno, pod nadpisem Path klikneme na ikonu složky a zvolíme náš csv soubor.
+Otevře se dialogové okno, pod nadpisem **Path** klikneme na ikonu složky a zvolíme náš CSV soubor. Potřebná nastavení importu se automaticky vyplní, pokud je soubor CSV standardního formátu.
 
 ![image](https://user-images.githubusercontent.com/72192205/231018727-16b5e0ef-8f7b-41c3-8cfc-160edf73863e.png)
 
-Potřebná nastavení importu se automaticky vyplní, pokud je soubor csv standardního formátu. Pokud ne, lze nastavení přepsat ručně. V okně **Preview** je náhled
+Pokud se nastavení nevyplnilo automaticky, lze nastavení přepsat ručně. V okně **Preview** je náhled
 na importovaný soubor. Zde si můžeme ověřit, jak se data načtou pomocí námi zadaných nastavení importu. Pkud chceme načít pouze určitý počet řádků souboru,
 můžeme vyplnit pole **Number of lines to load** počtem řádků, které chceme načíst.
 
 * Header Line Number - číslo řádku na kterém je hlavička dat
 * Number of lines to load - počet řádků dat k načtení
 * Delimiter - rozdělovač dat
+
+### Import dat z databáze PostgreSQL
 
 ## Import schématu
 ## Přidání zařízení
