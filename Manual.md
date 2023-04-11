@@ -21,7 +21,7 @@ zlepšovat efektivitu a spotřebu energie.
 
 ## Import dat
 Importovat data lze buď ze souboru formátu csv nebo z databáze PostgreSQL.
-Pro import dat otevřeme menu **File** v levém horním rohu aplikace. Zde otevřeme podmenu import a zvolíme zdroj dat.
+Pro import dat otevřeme menu **File** v levém horním rohu aplikace. Zde otevřeme podmenu **Import** a zvolíme zdroj dat.
 
 ![image](https://user-images.githubusercontent.com/72192205/231018389-41026b02-de52-49f5-a2a1-dc81a3f73bdd.png)
 
