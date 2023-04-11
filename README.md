@@ -21,6 +21,8 @@ Návod k použití
   - K čemu slouží aplikace
   - Základní kroky
     - Import dat
+      - CSV
+      - Databáze
     - Import schématu
     - Přidání zařízení
     - Zobrazení dat
