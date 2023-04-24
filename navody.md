@@ -32,7 +32,7 @@
 3.  Připojte periferie do usb portů
     * Pro zapnutí bezdrátových periferií použijte typicky přepínač umístěný na spodní straně zařízení, jako je například myš, klávesnice nebo sluchátka
 4.  Připojte napájecí kabel k PC
-5.  Na zdroji PC přepněte přepínač do polohy 
+5.  Na zdroji PC přepněte přepínač do polohy zapnuto
 
 ![image](https://user-images.githubusercontent.com/72192205/231091511-fb5f80aa-c698-4816-9d4a-d61b5b692773.png)
 
