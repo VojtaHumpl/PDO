@@ -48,11 +48,12 @@ Spustí se instalace
         ⚠️ Použijte rozhraní grafické karty, ne zakládní desky ⚠️
     2.  Připojte k monitoru napájecí kabel
 3.  Připojte periferie do usb portů
-5.  Připojte napájecí kabel k PC
-6.  Na zdroji PC přepněte přepínač do polohy 
+    * pokud jsou něktré periferie bezdrátové, zapněte je, typicky přepínačem na spodní straně periferie
+4.  Připojte napájecí kabel k PC
+5.  Na zdroji PC přepněte přepínač do polohy 
 
 ![image](https://user-images.githubusercontent.com/72192205/231091511-fb5f80aa-c698-4816-9d4a-d61b5b692773.png)
 
-7.  Zapněte PC
-8.  Zobrazí se průvodce nastavením Windows
+6.  Zapněte PC
+7.  Zobrazí se průvodce nastavením Windows
 
