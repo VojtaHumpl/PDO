@@ -16,6 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/72192205/234123928-c0557c66-1297-4535-9d03-830839c23e08.png)
 
+5. Pro změnu úrovně seznamu, stiskněte klávesu "Tabulátor"
 6. Chcete-li ukončit seznam, stiskněte klávesu "Enter" dvakrát za sebou.
 
 
