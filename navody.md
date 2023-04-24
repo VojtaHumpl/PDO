@@ -1,41 +1,22 @@
-# SW
+# SW Google Docs
 
-## Instalace 
+## 
 
-1.  Otevřete instalační soubor Microsoft Office s koncovkou .msi
+1.  Nejdříve otevřete dokument v Google Docs. Pokud jej nemáte, můžete si ho vytvořit kliknutím na jednu z několika šablon.
 
-![image](https://user-images.githubusercontent.com/72192205/231080827-4a05b253-b7c0-4136-a1f9-fa35c8659fef.png)
+![image](https://user-images.githubusercontent.com/72192205/234124236-753f5e69-597a-447d-9a4c-620eed1214c0.png)
 
-Spustí se instalace
+2.  Klikněte na místo v dokumentu, kde chcete vložit odrážkový seznam.
+3.  V horní liště klikněte na tlačítko "Seznam s odrážkami" nebo zkratkou Ctrl+Shift+8 
 
-2.  Po úspěšném dokončení instalace vám instalátor zobrazí zprávu **Máte všechno připravené. Office je nainstalovaný**.
+![image](https://user-images.githubusercontent.com/72192205/234123865-d0f9c9b6-050e-4b4e-9b97-bf08a62a1c26.png)
 
-![image](https://user-images.githubusercontent.com/72192205/231081307-45e5724e-df57-4962-8fc7-ecce1110a200.png)
+4.  Nyní můžete začít psát svůj seznam. Po každé položce stiskněte klávesu "Enter", abyste se přesunuli na další řádek seznamu.
+5.  Pokud chcete změnit typ odrážky, klikněte na položku seznamu a poté klikněte na šipku vedle tlačítka "Odrážkový seznam" v horní liště a vyberte si nový styl.
 
-## Nový dokument
+![image](https://user-images.githubusercontent.com/72192205/234123928-c0557c66-1297-4535-9d03-830839c23e08.png)
 
-## Nadpis
-
-## Vložení obrázku
-
-## Vložení odkazu
-
-## Ukládání
-
-## Export do pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
+6. Chcete-li ukončit seznam, stiskněte klávesu "Enter" dvakrát za sebou.
 
 
 
