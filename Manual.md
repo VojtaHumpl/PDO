@@ -46,6 +46,8 @@ můžeme vyplnit pole **Number of lines to load** počtem řádků, které chcem
 
 ### Import dat z databáze PostgreSQL
 
+Pro import z databáze zvolíme v nabídce **Filee** -> **Import** -> **Connect to database**.
+
 ## Import schématu
 ## Přidání zařízení
 ## Zobrazení dat
@@ -57,6 +59,8 @@ můžeme vyplnit pole **Number of lines to load** počtem řádků, které chcem
 ## Data
 
 # Zpracování výrazů
+
+
 
 # Příklady použití
 ## Graf průměrné spotřeby domu
