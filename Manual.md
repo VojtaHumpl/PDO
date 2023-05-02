@@ -48,6 +48,21 @@ můžeme vyplnit pole **Number of lines to load** počtem řádků, které chcem
 
 Pro import z databáze zvolíme v nabídce **Filee** -> **Import** -> **Connect to database**.
 
+![image](https://user-images.githubusercontent.com/72192205/235596008-ac938672-34f8-46b6-9802-b7daa621de83.png)
+
+V dialogovém okně vyplníme potřební nastavení a vyzkoušíme připojení k databázi tlačítkem **Test Connection**.
+
+![image](https://user-images.githubusercontent.com/72192205/235596168-893a5b2b-a44d-4db3-be88-d89db437aee8.png)
+
+Pokud se zobrazí *Connection Established*, propojení bylo úspěšné a můžeme pokračovat kliknutím na *OK*.
+
+![image](https://user-images.githubusercontent.com/72192205/235596203-06101768-55bb-4d40-a8dc-97805fadf4f3.png)
+
+Poté se vytvoří záložka s načtenými daty.
+
+![image](https://user-images.githubusercontent.com/72192205/235596239-2e040d37-8cfe-4623-a797-4f74c9cbda6c.png)
+
+
 ## Import schématu
 ## Přidání zařízení
 ## Zobrazení dat
@@ -60,6 +75,27 @@ Pro import z databáze zvolíme v nabídce **Filee** -> **Import** -> **Connect 
 
 # Zpracování výrazů
 
+Zpracování výrazů slouží k výpočtům a analýze dat, která chceme vizualizovat.
+Podporované operace:
+* závorky a záporná čísla
+* sčítání a odčítání
+* násobení a dělení
+* mocnění
+* druhá odmocnina
+* exponenciála
+* zaokrouhlování
+* logaritmus
+* modulo
+* procenta
+* absolutní hodnota
+* signum
+
+Podporované datové typy jsou **Integer** a **Double**, lze využít odkazů na buňky dat ve formátu **[data]!sloupecŘádek**. 
+Pro práci s buňkami jsou podporovány tyto operace:
+* suma
+* průměr
+* minimum
+* maximum
 
 
 # Příklady použití
