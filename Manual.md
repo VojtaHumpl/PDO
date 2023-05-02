@@ -68,6 +68,11 @@ Poté se vytvoří záložka s načtenými daty.
 ## Zobrazení dat
 
 # Rozhraní
+## Záložky
+
+Záložky slouží pro kompaktní zobrazení možností aplikace. Existují čtyři typy záložek: Plan (Schéma), Graph, Diagram a Data.
+Záložky můžeme tvořit z menu File (záložka data se tvoří automaticky s importem dat), dále je můžeme zavřít kliknutím na tlačítko X vedle jména záložky nebo je můžeme smazat kliknutím na ikonu popelnice vedle jména záložky.
+
 ## Schéma
 ## Grafy
 ## Diagramy
