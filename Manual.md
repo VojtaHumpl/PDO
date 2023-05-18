@@ -62,9 +62,23 @@ Poté se vytvoří záložka s načtenými daty.
 
 ![image](https://user-images.githubusercontent.com/72192205/235596239-2e040d37-8cfe-4623-a797-4f74c9cbda6c.png)
 
+## Tvorba nového schématu
 
-## Import schématu
-## Přidání zařízení
+Pro vytvoření nového schématu zvolte v nabídce **File** (nebo po kliknutí na záložku **➕**) položku **Add New Schema**.
+
+Otevře se dialogové okno, zde můžete zvolit název schématu, jeho výchozí dataset a zda chcete schéma propojit s diagramem. 
+Pokud propjíte schéma s diagramem, vytvoří se spolu se záložkou schéma i záložka diagramu. Propojení záložek je indikováno stejnou barvou záložky.
+
+### Import podkladu schématu
+
+Pokud chcete do schématu přidat podklad, například půdorys budovy, lze tak učinit z nabídky **File** -> **Import** -> **Import plan**.
+
+### Přidání zařízení
+
+Pro přidání zařízení do schématu je třeba mít nejprve otevřenou záložku se schématem, poté v nabídce **Tools** zvolte položku **Add New Device**.
+
+V dialogovém okně můžete zařízení pojmenovat, přidat k němu výraz a vybrat ikonu zařízení.
+
 ## Zobrazení dat
 
 # Rozhraní
@@ -73,10 +87,13 @@ Poté se vytvoří záložka s načtenými daty.
 Záložky slouží pro kompaktní zobrazení možností aplikace. Existují čtyři typy záložek: Plan (Schéma), Graph, Diagram a Data.
 Záložky můžeme tvořit z menu File (záložka data se tvoří automaticky s importem dat), dále je můžeme zavřít kliknutím na tlačítko X vedle jména záložky nebo je můžeme smazat kliknutím na ikonu popelnice vedle jména záložky.
 
-## Schéma
-## Grafy
-## Diagramy
-## Data
+### Schéma
+
+#### Zařízení
+
+### Grafy
+### Diagramy
+### Data
 
 # Zpracování výrazů
 
