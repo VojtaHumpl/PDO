@@ -33,9 +33,9 @@ Otevře se dialogové okno, pod nadpisem **Path** klikneme na ikonu složky a zv
 
 Pokud se nastavení nevyplnilo automaticky, lze nastavení přepsat ručně. V okně **Preview** je náhled na importovaný soubor. Zde si můžeme ověřit, jak se data načtou pomocí námi zadaných nastavení importu. Pkud chceme načít pouze určitý počet řádků souboru, můžeme vyplnit pole **Number of lines to load** počtem řádků, které chceme načíst.
 
-* Header Line Number - číslo řádku na kterém je hlavička dat
-* Number of lines to load - počet řádků dat k načtení
-* Delimiter - rozdělovač dat
+* **Header Line Number** - číslo řádku na kterém je hlavička dat
+* **Number of lines to load** - počet řádků dat k načtení
+* **Delimiter** - rozdělovač dat
 
 ### Import dat z databáze PostgreSQL
 
